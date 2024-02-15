@@ -2,7 +2,7 @@
 
 #### step 1: Run the Ollama
  ```bash 
-bashollama run bakllava
+ollama run bakllava
 ```
 #### step 2: Clone the Repo
 ```bash
