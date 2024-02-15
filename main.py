@@ -40,7 +40,7 @@ def prompt_func(data):
 
     return [HumanMessage(content=content_parts)]
 
-image_path = './Pie_chart.jpeg'
+image_path = './data/Pie_chart.jpeg'
 pil_image = Image.open(image_path)
 
 image_b64 = convert_to_base64(pil_image)
