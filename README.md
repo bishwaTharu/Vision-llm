@@ -1,14 +1,14 @@
 ## Open source llm vision project
 
-#### step1: Run the Ollama
+#### step 1: Run the Ollama
  ```bash 
-    bashollama run bakllava
+bashollama run bakllava
 ```
-#### step2: Clone the Repo
+#### step 2: Clone the Repo
 ```bash
-    git clone repo
+git clone repo
 ```
-#### step3: Install the Dependencies
+#### step 3: Install the Dependencies
 ```bash
-    pip install -r requirements.txt 
+pip install -r requirements.txt 
 ```
