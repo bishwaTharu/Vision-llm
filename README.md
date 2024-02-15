@@ -1,4 +1,4 @@
-## H2 Open source llm vision project
+## Open source llm vision project
 
 ### Set up: 
  `ollama run bakllava`<br>
